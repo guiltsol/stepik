@@ -1,3 +1,4 @@
+#Все простые числа из заданного диапазона
 n1=int(input())
 n2=int(input())
 for num in range(n1,n2+1):
